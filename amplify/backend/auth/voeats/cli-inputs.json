@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "voeats_identitypool_230a8664",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "voeats",
+    "sharedId": "230a8664",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "VoEats",
+  "displayName": "VoEats",
+  "expo": {
+    "name": "VoEats",
+    "slug": "VoEats",
+    "scheme": "voeats",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/images/app-icon-all.png",
+    "androidStatusBar": {
+      "hidden": true
+    },
+    "splash": {
+      "image": "./assets/images/splash-logo-all.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#191015"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "icon": "./assets/images/app-icon-all.png",
+      "package": "com.wiseasy.voeats",
+      "splash": {
+        "image": "./assets/images/splash-logo-all.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#191015"
+      }
+    },
+    "ios": {
+      "icon": "./assets/images/app-icon-all.png",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wiseasy.voeats",
+      "splash": {
+        "image": "./assets/images/splash-logo-all.png",
+        "tabletImage": "./assets/images/splash-logo-all.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#191015"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/app-icon-all.png",
+      "splash": {
+        "image": "./assets/images/splash-logo-all.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#191015"
+      },
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-localization",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "newArchEnabled": false
+          },
+          "android": {
+            "newArchEnabled": false
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "tsconfigPaths": true
+    }
+  },
+  "ignite": {
+    "version": "9.0.3"
+  }
+}

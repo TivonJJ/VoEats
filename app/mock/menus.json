@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Dishes",
+    "icon": "bowl",
+    "iconColor": "#cccccc",
+    "items": [
+      {
+        "name": "Grilled Salmon",
+        "description": "Fresh grilled salmon filet",
+        "image": "salmon.jpg",
+        "id": "1678bcfcacac404492f2b635ae35cda8",
+        "inventory": 10,
+        "price": 18.99
+      },
+      {
+        "name": "Fried Calamari",
+        "description": "Crispy fried calamari with marinara sauce",
+        "image": "calamari.jpg",
+        "id": "46375500fdeb42289958720723250f49",
+        "inventory": 15,
+        "price": 9.99
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "description": "Spaghetti with rich meat sauce",
+        "image": "spaghetti.jpg",
+        "id": "ab6241977f3341b19d8cb976d667bf11",
+        "inventory": 12,
+        "price": 14.99
+      },
+      {
+        "name": "Fried Rice with Seafood",
+        "description": "Stir-fried rice with shrimp, scallops and vegetables",
+        "image": "fried-rice.jpg",
+        "id": "ba435b177c4c4ef2a5d95de90e5e2238",
+        "inventory": 10,
+        "price": 18.99
+      },
+      {
+        "name": "Ribeye Steak",
+        "description": "Grilled 12 oz ribeye steak with mashed potatoes",
+        "image": "ribeye.jpg",
+        "id": "dbb3409ee6da4bbd9bbb501dd91a23d0",
+        "inventory": 8,
+        "price": 32.99
+      },
+      {
+        "name": "Steamed Crab",
+        "description": "Whole crab steamed with garlic butter",
+        "image": "crab.jpg",
+        "id": "8a2c13bf591541ffb5089bf5ef9622f0",
+        "inventory": 6,
+        "price": 21.99
+      },
+      {
+        "name": "Chicken Soup with Mushroom",
+        "description": "chicken Soup with mushrooms",
+        "image": "chicken-soup.jpg",
+        "id": "341f4fd7986d44ef9caa9a622d40c53f",
+        "inventory": 8,
+        "price": 16.99
+      }
+    ]
+  },
+  {
+    "name": "Soft Drinks & Juice",
+    "icon": "cup",
+    "items": [
+      {
+        "name": "Fresh Orange Juice",
+        "description": "Squeezed daily orange juice ",
+        "image": "orange-juice.jpg",
+        "id": "8eef061e800242f4bbcde46ea79a7f09",
+        "inventory": 30,
+        "price": 5
+      },
+      {
+        "name": "Fresh Pineapple Juice",
+        "description": "Sweet and tangy pineapple juice",
+        "image": "pineapple-juice.jpg",
+        "id": "eae3d41d478e43c7b0163c0c8d376376",
+        "inventory": 25,
+        "price": 5
+      },
+      {
+        "name": "Fresh Coconut",
+        "description": "Hydrating young coconut",
+        "image": "coconut-water.jpg",
+        "id": "716e80a8046b4e28851ea1bf791981ab",
+        "inventory": 20,
+        "price": 6
+      },
+      {
+        "name": "Coca Cola",
+        "description": "Refreshing cola soft drink",
+        "image": "coca.jpg",
+        "id": "f363c5cb0840446dae92686232d6f15b",
+        "inventory": 50,
+        "price": 3
+      },
+      {
+        "name": "Sprite",
+        "description": "Refreshing lemon-lime flavored soda",
+        "image": "sprite.jpg",
+        "id": "50acb2822aa24b0ba167e7d96b7d67f6",
+        "inventory": 50,
+        "price": 3
+      },
+      {
+        "name": "Ice Purified Water",
+        "description": "Filtered still water",
+        "image": "water.jpg",
+        "id": "b523486045604c0b95d3ffa253de62c0",
+        "inventory": 100,
+        "price": 2
+      }
+    ]
+  },
+  {
+    "name": "Wine & Beer",
+    "icon": "drink",
+    "items": [
+      {
+        "name": "House Red Wine",
+        "description": "Glass of Cabernet Sauvignon",
+        "image": "red-wine.jpg",
+        "id": "3784c0148eed4285af2e96ba9e083811",
+        "inventory": 30,
+        "price": 7
+      },
+      {
+        "name": "Heineken",
+        "description": "Classic Dutch pilsner, clean and refreshing",
+        "image": "heineken.jpg",
+        "id": "2e2d740563d54ae4893b4ed62417cf66",
+        "inventory": 20,
+        "price": 6
+      },
+      {
+        "name": "Fat Tire",
+        "description": "Toasted malt with sweet caramel finish",
+        "image": "fattire.jpg",
+        "id": "992fc37b6e4b4516ab8dfc9b67a304c1",
+        "inventory": 15,
+        "price": 7
+      },
+      {
+        "name": "Blue Moon",
+        "description": "Belgian white with Valencia orange peel",
+        "image": "bluemoon.jpg",
+        "id": "43729763521f4199ba4d381e00165c1d",
+        "inventory": 18,
+        "price": 5
+      },
+      {
+        "name": "Guinness",
+        "description": "Iconic dark beer with creamy foam",
+        "image": "guinness.jpg",
+        "id": "102200d0920646e59651acebbbfa5e50",
+        "inventory": 22,
+        "price": 7
+      }
+    ]
+  },
+  {
+    "name": "Desserts",
+    "icon": "cake",
+    "items": [
+      {
+        "name": "Tiramisu",
+        "description": "Ladyfingers with mascarpone and espresso",
+        "image": "tiramisu.jpg",
+        "id": "cf5ec69c30024d28a113a211b2eb8fbb",
+        "inventory": 15,
+        "price": 6.99
+      },
+      {
+        "name": "Ice Cream",
+        "description": "Chocolate, vanilla or fruit ice cream",
+        "image": "gelato.jpg",
+        "id": "d556dc91ba4e4216b487c6a2aa3ff8c1",
+        "inventory": 20,
+        "price": 5
+      }
+    ]
+  }
+]

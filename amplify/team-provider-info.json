@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-voeats-dev-173558-authRole",
+      "UnauthRoleArn": "arn:aws:iam::036221898761:role/amplify-voeats-dev-173558-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::036221898761:role/amplify-voeats-dev-173558-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-voeats-dev-173558-deployment",
+      "UnauthRoleName": "amplify-voeats-dev-173558-unauthRole",
+      "StackName": "amplify-voeats-dev-173558",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:036221898761:stack/amplify-voeats-dev-173558/b50d5d10-9351-11ee-8689-06d55c4cc663",
+      "AmplifyAppId": "d2exfbqnlxes84"
+    },
+    "categories": {
+      "auth": {
+        "voeats": {}
+      }
+    }
+  }
+}
